@@ -4,7 +4,8 @@
   "description": "A mos plugin for generating README",
   "preferDev": true,
   "files": [
-    "src/"
+    "src/",
+    "dist/"
   ],
   "main": "dist/index.js",
   "jsnext:main": "src/index.js",
