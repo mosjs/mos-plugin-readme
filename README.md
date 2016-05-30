@@ -32,6 +32,7 @@ const mosPluginReadme = require('mos-plugin-readme')
 ## <a name="dependencies">Dependencies</a> [![dependency status](https://img.shields.io/david/mosjs/mos-plugin-readme/master.svg)](https://david-dm.org/mosjs/mos-plugin-readme/master)
 
 - [babel-runtime](https://github.com/babel/babel/blob/master/packages): babel selfContained runtime
+- [markdownscript](https://github.com/zkochan/markdownscript): Creates markdown Abstract Syntax Tree
 
 <!--/@-->
 
